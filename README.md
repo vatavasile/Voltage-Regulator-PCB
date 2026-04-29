@@ -17,13 +17,10 @@ This project is a custom PCB designed as part of a university exercise. The goal
 ## Project Preview
 
 ### PCB Layout
-![PCB Layout](images/pcb_layout.png)
-
-### 3D View
-![3D View](images/pcb_3d.png)
+![PCB Layout](PCB_layout.png)
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](Scehmatic.png)
 
 ---
 
