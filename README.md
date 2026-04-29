@@ -14,21 +14,6 @@ This project is a custom PCB designed as part of a university exercise. The goal
 
 ---
 
-## Tools Used
-- KiCad (schematic capture and PCB layout)  
-- GitHub (version control and documentation)  
-
----
-
-## Features
-- USB-C receptacle with correct pin mapping  
-- 5.1kΩ pull-down resistors on CC1 and CC2  
-- Proper VBUS routing  
-- Ground plane implementation  
-- DRC-compliant layout  
-
----
-
 ## Project Preview
 
 ### PCB Layout
@@ -42,24 +27,8 @@ This project is a custom PCB designed as part of a university exercise. The goal
 
 ---
 
-## Project Structure
-images/  
-production/  
-usb_c_project.kicad_pcb  
-usb_c_project.kicad_sch  
-README.md  
-
----
-
 ## Notes
 This project was completed as part of a university exercise to develop practical skills in PCB design, routing, and hardware engineering fundamentals.
-
----
-
-## Future Improvements
-- Add ESD protection for USB lines  
-- Improve differential pair routing  
-- Optimize power distribution  
 
 ---
 
