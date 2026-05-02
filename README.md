@@ -17,7 +17,7 @@ This project is a custom PCB designed as part of a university exercise. The goal
 ## Project Preview
 
 ### PCB Layout
-![PCB Layout](PCB_layout.png)
+![PCB Layout](.png)
 
 ### Schematic
 ![Schematic](Scehmatic.png)
