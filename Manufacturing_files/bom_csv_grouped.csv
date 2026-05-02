@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","10uF","","","","Capacitor_SMD:C_0603_1608Metric","~"
+"C2","1","22uF","","","","Capacitor_SMD:C_0603_1608Metric","~"
+"J1","1","USB_C_Receptacle_USB2.0_16P","","","","Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+"J2","1","Conn_01x06","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left","~"
+"R1,R2","2","5k1","","","","Resistor_SMD:R_0603_1608Metric","~"
+"U2","1","AZ1117-3.3","","","","Package_TO_SOT_SMD:SOT-223-3_TabPin2","https://www.diodes.com/assets/Datasheets/AZ1117.pdf"
